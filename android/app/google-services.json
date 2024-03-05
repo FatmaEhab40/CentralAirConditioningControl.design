@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737892810655",
+    "project_id": "central-air-conditioning-35edc",
+    "storage_bucket": "central-air-conditioning-35edc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737892810655:android:3c44766a78ebb89dee47aa",
+        "android_client_info": {
+          "package_name": "com.fatmaehab.CentralAirConditioningControl.design"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJM_hOqGtSqlS0j7AqrWFmgsXsD5y3pQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
